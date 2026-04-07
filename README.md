@@ -12,7 +12,8 @@
 *Building scalable web applications, working with data, and innovating in e-commerce.*
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/?hl=ru&tf=cm&fs=1&to=jakxongirkxasanov777@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/steroidniykotik)
+[![Telegram (Personal)](https://img.shields.io/badge/Telegram_(Personal)-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/steroidniykotik)
+[![Telegram (Work)](https://img.shields.io/badge/Telegram_(Work)-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/eebaanaashkaa)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/salmoninthesea)
 
 </div>
