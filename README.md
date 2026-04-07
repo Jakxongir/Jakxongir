@@ -5,8 +5,9 @@
 
 *Building scalable web applications, working with data, and innovating in e-commerce.*
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]([mailto:jakxongirkxasanov777@gmail.com](https://mail.google.com/mail/u/1/?hl=ru&tf=cm&fs=1&to=jakxongirkxasanov777@gmail.com))
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/?hl=ru&tf=cm&fs=1&to=jakxongirkxasanov777@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/steroidniykotik)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/salmoninthesea)
 
 </div>
 
@@ -65,7 +66,7 @@
 
 | Platform | Link |
 |----------|------|
-| 📧 Email | [jakxongirkxasanov777@gmail.com](mailto:jakxongirkxasanov777@gmail.com) |
+| 📧 Email | [jakxongirkxasanov777@gmail.com](https://mail.google.com/mail/u/1/?hl=ru&tf=cm&fs=1&to=jakxongirkxasanov777@gmail.com) |
 | ✈️ Telegram (Personal) | [@steroidniykotik](https://t.me/steroidniykotik) |
 | ✈️ Telegram (Work) | [@eebaanaashkaa](https://t.me/eebaanaashkaa) |
 | 📸 Instagram | [@salmoninthesea](https://instagram.com/salmoninthesea) |
