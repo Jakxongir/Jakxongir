@@ -1,15 +1,47 @@
 <div align="center">
 
-# Hi, I'm Jakxongir 👋
-### Full-Stack Developer | Entrepreneur | Student
+# <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="wave" width="40" style="display: inline-block; animation: wave 2s ease-in-out infinite;"> Hi, I'm Jakxongir
 
-*Building scalable web applications, working with data, and innovating in e-commerce.*
+### <span style="background: linear-gradient(90deg, #ff6b6b, #feca57, #48dbfb, #ff9ff3, #54a0ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; animation: gradient 3s ease infinite; font-weight: 800;">Full-Stack Developer | Entrepreneur | Student</span>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/?hl=ru&tf=cm&fs=1&to=jakxongirkxasanov777@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/steroidniykotik)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/salmoninthesea)
+<p style="color: #a0a0a0; font-style: italic;">
+Building scalable web applications, working with data, and innovating in e-commerce.
+</p>
+
+<div style="display: inline-flex; gap: 15px; margin: 20px 0;">
+  <a href="https://mail.google.com/mail/u/1/?hl=ru&tf=cm&fs=1&to=jakxongirkxasanov777@gmail.com" style="text-decoration: none;">
+    <div style="background: linear-gradient(135deg, #EA4335, #FF6B6B); padding: 12px 25px; border-radius: 50px; color: white; font-weight: bold; display: flex; align-items: center; gap: 8px; box-shadow: 0 4px 15px rgba(234, 67, 53, 0.4); transition: transform 0.3s;">
+      <span>📧</span> <span>GMAIL</span>
+    </div>
+  </a>
+  <a href="https://t.me/steroidniykotik" style="text-decoration: none;">
+    <div style="background: linear-gradient(135deg, #0088cc, #00D4FF); padding: 12px 25px; border-radius: 50px; color: white; font-weight: bold; display: flex; align-items: center; gap: 8px; box-shadow: 0 4px 15px rgba(0, 136, 204, 0.4); transition: transform 0.3s;">
+      <span>✈️</span> <span>TELEGRAM</span>
+    </div>
+  </a>
+  <a href="https://instagram.com/salmoninthesea" style="text-decoration: none;">
+    <div style="background: linear-gradient(135deg, #833AB4, #FD1D1D, #FCAF45); padding: 12px 25px; border-radius: 50px; color: white; font-weight: bold; display: flex; align-items: center; gap: 8px; box-shadow: 0 4px 15px rgba(131, 58, 180, 0.4); transition: transform 0.3s;">
+      <span>📸</span> <span>INSTAGRAM</span>
+    </div>
+  </a>
+</div>
 
 </div>
+
+<style>
+@keyframes wave {
+  0%, 100% { transform: rotate(0deg); }
+  25% { transform: rotate(20deg); }
+  50% { transform: rotate(0deg); }
+  75% { transform: rotate(-20deg); }
+}
+
+@keyframes gradient {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+</style>
 
 ---
 
