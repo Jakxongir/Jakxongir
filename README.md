@@ -9,7 +9,7 @@
 
 ---
 
-### 👨‍💻 Обо мне (Terminal Mode)
+### 👨‍ Обо мне (Terminal Mode)
 
 ```json
 {
@@ -20,47 +20,41 @@
   "focus": "Создание полноценных веб-приложений и работа с данными.",
   "location": "Uzbekistan",
   "motto": "Stay curious, build fast."
-  
-  ### 🛠 Стек технологий
-
-<div align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</div>
-
-#### 📊 Направления деятельности:
-* **Data Science:** Аналитика и работа с большими данными.
-* **E-commerce:** Разработка и масштабирование торговых платформ.
-* **AI:** Интеграция искусственного интеллекта в проекты.
-* **Physics:** Прикладные вычисления и моделирование.
-
----
-
-### 📈 Статистика GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ВАШ_НИКНЕЙМ&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_НИКНЕЙМ&layout=compact&theme=radical" alt="Top Langs" height="180" />
-</div>
-
----
-
-### 🤝 Связаться со мной
-
-| Ресурс | Контакт / Ссылка |
-| :--- | :--- |
-| 📧 **Gmail** | [jakxongirkxasanov777@gmail.com](mailto:jakxongirkxasanov777@gmail.com) |
-| ✈️ **Telegram (Личный)** | [@steroidniykotik](https://t.me/steroidniykotik) |
-| ✈️ **Telegram (Рабочий)** | [@eebaanaashkaa](https://t.me/eebaanaashkaa) |
-| 📸 **Instagram** | [@salmoninthesea](https://instagram.com/salmoninthesea) |
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=ВАШ_НИКНЕЙМ&color=orange&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
-</div>
 }
+
+🛠 Стек технологий
+<div align="left">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</div>
+
+📊 Направления деятельности
+Data Science: Аналитика и работа с большими данными
+E-commerce: Разработка и масштабирование торговых платформ
+AI: Интеграция искусственного интеллекта в проекты
+Physics: Прикладные вычисления и моделирование
+📈 Статистика GitHub
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=JakxongirDev&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakxongirDev&layout=compact&theme=radical" alt="Top Langs" height="180" />
+</div>
+
+🤝 Связаться со мной
+Ресурс
+Контакт / Ссылка
+📧 Gmail
+jakxongirkxasanov777@gmail.com
+✈️ Telegram (Личный)
+@steroidniykotik
+✈️ Telegram (Рабочий)
+@eebaanaashkaa
+📸 Instagram
+@salmoninthesea
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+<img src="https://komarev.com/ghpvc/?username=JakxongirDev&color=orange&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
+</div>
+```
